@@ -1,0 +1,1 @@
+This script is a basic implementation of a password checker that utilizes the "Have I Been Pwned" (HIBP) Passwords API. The script takes passwords as command-line arguments, hashes them using SHA-1, and then queries the HIBP API to check if the hashed password has been previously exposed in data breaches.
